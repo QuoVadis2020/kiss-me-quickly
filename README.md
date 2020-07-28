@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 20 July, 2020 - 27 July, 2020
+
+Vue.js       1 hr 5 mins     ███████████░░░░░░░░░░░░░░   45.02 % 
+JavaScript   1 hr            ██████████░░░░░░░░░░░░░░░   41.67 % 
+Other        12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 <!--END_SECTION:waka-->
