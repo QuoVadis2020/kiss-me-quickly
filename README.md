@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 August, 2020 - 10 August, 2020
+Week: 04 August, 2020 - 11 August, 2020
 
-Vue.js          8 hrs 17 mins   █████████░░░░░░░░░░░░░░░░   39.05 % 
-JavaScript      7 hrs 19 mins   ████████░░░░░░░░░░░░░░░░░   34.54 % 
-Other           4 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   22.71 % 
-JSON            37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-WiX Installer   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Vue.js          8 hrs 4 mins    █████████████░░░░░░░░░░░░   52.47 % 
+JavaScript      3 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Other           3 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+JSON            22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+WiX Installer   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 <!--END_SECTION:waka-->
