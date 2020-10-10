@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 October, 2020 - 09 October, 2020
+
+Vue.js       2 hrs 49 mins   ████████████▒░░░░░░░░░░░░   48.78 % 
+JavaScript   2 hrs 28 mins   ██████████▓░░░░░░░░░░░░░░   42.77 % 
+Other        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
 <!--END_SECTION:waka-->
