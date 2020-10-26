@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 October, 2020 - 24 October, 2020
+Week: 18 October, 2020 - 25 October, 2020
 
 JavaScript   4 hrs 2 mins    ████████████▒░░░░░░░░░░░░   48.89 % 
 Vue.js       2 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.88 % 
