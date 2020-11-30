@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 November, 2020 - 28 November, 2020
+Week: 22 November, 2020 - 29 November, 2020
 
 JavaScript   5 hrs 25 mins   █████████▓░░░░░░░░░░░░░░░   38.60 % 
 Other        2 hrs 56 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.93 % 
