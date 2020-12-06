@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 November, 2020 - 04 December, 2020
+Week: 28 November, 2020 - 05 December, 2020
 
 TypeScript   6 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.11 % 
 JavaScript   4 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
