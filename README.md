@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2020 - 13 December, 2020
+Week: 07 December, 2020 - 14 December, 2020
 
-TypeScript   20 hrs 18 mins  ██████████████████████▓░░   91.25 % 
-JavaScript   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Vue.js       50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript   24 hrs 16 mins  ██████████████████████▒░░   89.71 % 
+Vue.js       1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+JavaScript   45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+LESS         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
