@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 February, 2021 - 18 February, 2021
+
+Vue.js       1 hr 37 mins    ████████████████████░░░░░   79.66 % 
+JavaScript   16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Other        7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 ```
 <!--END_SECTION:waka-->
