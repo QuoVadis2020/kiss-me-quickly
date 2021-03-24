@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 16 March, 2021 - 23 March, 2021
+
+JSON         17 mins         ████████▒░░░░░░░░░░░░░░░░   33.65 % 
+Vue.js       15 mins         ███████▓░░░░░░░░░░░░░░░░░   30.00 % 
+YAML         12 mins         ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+TypeScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 <!--END_SECTION:waka-->
