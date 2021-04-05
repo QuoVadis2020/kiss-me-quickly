@@ -27,12 +27,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 March, 2021 - 03 April, 2021
+Week: 28 March, 2021 - 04 April, 2021
 
-TypeScript   15 hrs 45 mins  █████████████████░░░░░░░░   67.42 % 
-JavaScript   4 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-JSX          2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-YAML         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+TypeScript   6 hrs 28 mins   ████████████▒░░░░░░░░░░░░   49.26 % 
+JavaScript   4 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░   32.47 % 
+JSX          2 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.11 % 
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 <!--END_SECTION:waka-->
