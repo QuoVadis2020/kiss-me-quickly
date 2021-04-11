@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 April, 2021 - 09 April, 2021
+Week: 03 April, 2021 - 10 April, 2021
 
 HTML         2 hrs 49 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.30 % 
 SCSS         2 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
