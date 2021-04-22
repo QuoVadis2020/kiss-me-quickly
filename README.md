@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 April, 2021 - 20 April, 2021
+Week: 14 April, 2021 - 21 April, 2021
 
-JavaScript   20 hrs 31 mins  ████████████████▓░░░░░░░░   66.68 % 
-Vue.js       7 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-SCSS         2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+JavaScript   29 hrs 38 mins  █████████████████████▓░░░   87.13 % 
+SCSS         3 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Vue.js       36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+JSON         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
