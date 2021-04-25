@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 April, 2021 - 23 April, 2021
+Week: 17 April, 2021 - 24 April, 2021
 
 JavaScript   24 hrs 34 mins  █████████████████▒░░░░░░░   69.45 % 
 SCSS         5 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.72 % 
