@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 May, 2021 - 25 May, 2021
+Week: 19 May, 2021 - 26 May, 2021
 
 HTML    29 mins         ██████████████▓░░░░░░░░░░   58.52 % 
 PHP     13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.64 % 
