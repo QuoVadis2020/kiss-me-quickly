@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 May, 2021 - 30 May, 2021
+Week: 24 May, 2021 - 31 May, 2021
 
-JavaScript   3 hrs 8 mins    ███████████████████▓░░░░░   79.10 % 
-HTML         29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-PHP          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JavaScript   3 hrs 8 mins    ████████████████████▒░░░░   81.09 % 
+HTML         24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+PHP          12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 <!--END_SECTION:waka-->
