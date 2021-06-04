@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 May, 2021 - 02 June, 2021
+Week: 27 May, 2021 - 03 June, 2021
 
 JavaScript   3 hrs 8 mins    ████████████████████████▓   98.48 % 
 Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
