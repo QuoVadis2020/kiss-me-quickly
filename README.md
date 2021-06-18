@@ -27,12 +27,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 June, 2021 - 16 June, 2021
+Week: 10 June, 2021 - 17 June, 2021
 
-TypeScript   55 mins         ████████████░░░░░░░░░░░░░   47.40 % 
-JSX          44 mins         █████████▓░░░░░░░░░░░░░░░   38.10 % 
-HTML         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript   17 mins         █████████████████▒░░░░░░░   69.17 % 
+JSX          7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.72 % 
 ```
 <!--END_SECTION:waka-->
