@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 14 June, 2021 - 21 June, 2021
+
+TypeScript   6 mins          ██████████████████████▓░░   90.12 % 
 ```
 <!--END_SECTION:waka-->
