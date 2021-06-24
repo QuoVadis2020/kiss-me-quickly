@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 June, 2021 - 22 June, 2021
+Week: 17 June, 2021 - 23 June, 2021
 
-TypeScript   25 mins         ████████████▒░░░░░░░░░░░░   49.74 % 
-XML          19 mins         █████████▒░░░░░░░░░░░░░░░   37.54 % 
-JSON         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+JSON         57 mins         ███████████░░░░░░░░░░░░░░   43.74 % 
+TypeScript   48 mins         █████████▒░░░░░░░░░░░░░░░   37.39 % 
+XML          21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 <!--END_SECTION:waka-->
