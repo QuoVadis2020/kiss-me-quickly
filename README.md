@@ -27,10 +27,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 August, 2021 - 19 August, 2021
-
-TypeScript   24 mins         ████████████████████▒░░░░   80.84 % 
-HTML         4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Markdown     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
