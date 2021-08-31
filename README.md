@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 August, 2021 - 29 August, 2021
+Week: 24 August, 2021 - 30 August, 2021
 
 Bash   5 mins          █████████████████▒░░░░░░░   69.18 % 
 JSON   2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.82 % 
