@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 03 September, 2021 - 09 September, 2021
+
+Other        29 mins         ████████████████████▒░░░░   80.93 % 
+JSON         6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.79 % 
 ```
 <!--END_SECTION:waka-->
