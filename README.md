@@ -27,10 +27,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
-
-TypeScript   2 hrs 57 mins   █████████████████▓░░░░░░░   70.92 % 
-LESS         1 hr 7 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.09 % 
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
