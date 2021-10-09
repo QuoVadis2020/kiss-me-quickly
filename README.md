@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 October, 2021 - 08 October, 2021
+
+LESS         3 hrs 23 mins   ███████████████▒░░░░░░░░░   61.29 % 
+TypeScript   1 hr 50 mins    ████████▒░░░░░░░░░░░░░░░░   33.36 % 
+Bash         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
 <!--END_SECTION:waka-->
