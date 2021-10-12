@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2021 - 10 October, 2021
+Week: 05 October, 2021 - 11 October, 2021
 
 TypeScript   5 hrs 22 mins   ███████████▒░░░░░░░░░░░░░   45.24 % 
 LESS         5 hrs           ██████████▓░░░░░░░░░░░░░░   42.09 % 
