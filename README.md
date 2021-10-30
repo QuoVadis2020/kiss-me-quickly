@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 October, 2021 - 28 October, 2021
+Week: 23 October, 2021 - 29 October, 2021
 
-TypeScript   7 hrs 14 mins   ██████████████▓░░░░░░░░░░   58.92 % 
-LESS         4 hrs 6 mins    ████████▒░░░░░░░░░░░░░░░░   33.49 % 
-JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+TypeScript   9 hrs           ██████████████████░░░░░░░   71.35 % 
+LESS         2 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.44 % 
+JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 <!--END_SECTION:waka-->
