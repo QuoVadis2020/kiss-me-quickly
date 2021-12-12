@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2021 - 10 December, 2021
+Week: 05 December, 2021 - 11 December, 2021
 
-TypeScript   18 hrs 38 mins  ████████████████████████▒   97.03 % 
-JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-LESS         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript   16 hrs 29 mins  ████████████████████████▓   98.17 % 
+LESS         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
