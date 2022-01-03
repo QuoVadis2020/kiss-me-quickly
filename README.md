@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2021 - 01 January, 2022
+Week: 27 December, 2021 - 02 January, 2022
 
 TypeScript   19 hrs 11 mins  ████████████████████████░   95.95 % 
 JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
