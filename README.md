@@ -27,10 +27,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2022 - 12 January, 2022
+Week: 07 January, 2022 - 13 January, 2022
 
-TypeScript   11 hrs 15 mins  ███████████████████████▒░   93.13 % 
-LESS         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+TypeScript   12 hrs          ██████████████████████▓░░   90.21 % 
+LESS         55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 <!--END_SECTION:waka-->
