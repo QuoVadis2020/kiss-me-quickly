@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
-
-TypeScript   2 hrs 44 mins   ████████████████████████▓   99.33 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
