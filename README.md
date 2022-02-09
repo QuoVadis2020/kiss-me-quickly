@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 February, 2022 - 08 February, 2022
+
+TypeScript   5 hrs 6 mins    ███████████████████████▒░   93.67 % 
+JavaScript   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
