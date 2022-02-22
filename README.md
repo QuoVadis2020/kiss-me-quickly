@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 13 February, 2022 - To: 20 February, 2022
 
 TypeScript   18 hrs          ███████████████░░░░░░░░░░   59.40 % 
 LESS         9 hrs 53 mins   ████████░░░░░░░░░░░░░░░░░   32.60 % 
