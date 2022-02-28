@@ -26,13 +26,16 @@ Here are some ideas to get you started:
 ### My code time
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-TypeScript   22 hrs 30 mins  ██████████████████████░░░   87.95 % 
-LESS         1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Markdown     31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-JavaScript   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+TypeScript   28 hrs 57 mins  ██████████████████████▒░░   89.29 %
+LESS         2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Markdown     31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+JavaScript   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
+
 <!--END_SECTION:waka-->
