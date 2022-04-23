@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2022 - To: 21 April 2022
+From: 15 April 2022 - To: 22 April 2022
 
-TypeScript   21 hrs 40 mins  ████████████████████▓░░░░   82.65 %
-LESS         3 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+TypeScript   21 hrs 8 mins   █████████████████████▒░░░   85.05 %
+LESS         3 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
