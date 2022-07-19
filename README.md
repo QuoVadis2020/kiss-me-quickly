@@ -28,12 +28,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 July 2022 - To: 17 July 2022
+From: 11 July 2022 - To: 18 July 2022
 
-JavaScript   27 mins         ████████████████████▓░░░░   82.99 %
-LESS         5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JavaScript   27 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
