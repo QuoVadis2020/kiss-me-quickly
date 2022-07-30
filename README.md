@@ -28,12 +28,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 July 2022 - To: 28 July 2022
+From: 22 July 2022 - To: 29 July 2022
 
-Svelte       35 mins         ████████████▒░░░░░░░░░░░░   48.76 %
-JavaScript   24 mins         ████████▒░░░░░░░░░░░░░░░░   33.16 %
-Markdown     13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript   1 hr 1 min      ██████████████▒░░░░░░░░░░   57.86 %
+JavaScript   24 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
+JSON         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Vue.js       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
