@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 July 2022 - To: 31 July 2022
+From: 25 July 2022 - To: 01 August 2022
 
-TypeScript   1 hr 1 min      ██████████████████▓░░░░░░   75.21 %
-JSON         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-Vue.js       7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+TypeScript   1 hr 17 mins    █████████████▓░░░░░░░░░░░   55.30 %
+Vue.js       40 mins         ███████░░░░░░░░░░░░░░░░░░   28.58 %
+JSON         17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
