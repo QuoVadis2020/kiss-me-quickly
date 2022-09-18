@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
+From: 10 September 2022 - To: 17 September 2022
 
 Vue.js       27 hrs 40 mins  ████████████████▓░░░░░░░░   67.13 %
 TypeScript   8 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   20.65 %
