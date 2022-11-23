@@ -28,11 +28,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 November 2022 - To: 21 November 2022
+From: 15 November 2022 - To: 22 November 2022
 
-JavaScript   4 hrs 26 mins   ████████████████████████▓   98.07 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+JavaScript   3 hrs 18 mins   ███████████████████░░░░░░   76.39 %
+JSON         34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+Vue.js       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Other        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
