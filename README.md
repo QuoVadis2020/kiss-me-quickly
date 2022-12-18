@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 December 2022 - To: 16 December 2022
+From: 10 December 2022 - To: 17 December 2022
 
 HTML              1 hr 47 mins    ███████▒░░░░░░░░░░░░░░░░░   28.86 %
 Vue.js            1 hr 37 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
