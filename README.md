@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 20 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
-PHP               54 mins         ███████████████░░░░░░░░░░   60.04 %
-JavaScript        10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-Vue.js            9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-YAML              4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-JSON              4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Other             3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+PHP               54 mins         ██████████████████▒░░░░░░   72.94 %
+JavaScript        10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+YAML              4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+JSON              4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Bash              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
