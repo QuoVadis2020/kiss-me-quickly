@@ -28,14 +28,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 December 2022 - To: 02 January 2023
+From: 27 December 2022 - To: 03 January 2023
 
-PHP               1 hr 10 mins    ███████████░░░░░░░░░░░░░░   43.68 %
-JavaScript        53 mins         ████████▒░░░░░░░░░░░░░░░░   33.25 %
-Mustache          16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-HTML              12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-XML               5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Text              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+JavaScript   53 mins         ██████████████░░░░░░░░░░░   56.61 %
+PHP          20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
+HTML         12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Mustache     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
