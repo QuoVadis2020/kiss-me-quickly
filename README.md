@@ -28,13 +28,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 January 2023 - To: 26 January 2023
-
-PHP          49 mins         ███████████████▓░░░░░░░░░   63.25 %
-SQL          23 mins         ███████▒░░░░░░░░░░░░░░░░░   29.49 %
-Vue.js       4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
