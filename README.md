@@ -28,7 +28,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 21 January 2023 - To: 28 January 2023
+
+PHP          51 mins         ██████████████▓░░░░░░░░░░   59.19 %
+SQL          21 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.09 %
+Bash         12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
+Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
