@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2023 - To: 08 April 2023
+From: 02 April 2023 - To: 09 April 2023
 
 JavaScript        3 hrs 15 mins   ███████▒░░░░░░░░░░░░░░░░░   28.95 %
 Vue.js            2 hrs 29 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
