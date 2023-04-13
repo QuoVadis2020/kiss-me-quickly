@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2023 - To: 11 April 2023
+From: 05 April 2023 - To: 12 April 2023
 
-JavaScript        5 hrs 43 mins   █████████▒░░░░░░░░░░░░░░░   37.83 %
-JSON              2 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-TypeScript        2 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-Mustache          1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-Vue.js            1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-Text              25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+JavaScript        5 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   33.43 %
+TypeScript        3 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
+JSON              2 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Mustache          1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Vue.js            1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Other             28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
