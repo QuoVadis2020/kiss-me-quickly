@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 05 June 2023
+From: 30 May 2023 - To: 06 June 2023
 
-Vue.js       15 hrs 9 mins   ██████████████████████░░░   87.79 %
-TypeScript   1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-JavaScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Vue.js       17 hrs 15 mins  ██████████████████████░░░   88.66 %
+TypeScript   1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+SCSS         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
