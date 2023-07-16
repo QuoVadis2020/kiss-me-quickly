@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2023 - To: 14 July 2023
+From: 08 July 2023 - To: 15 July 2023
 
 Vue.js       11 hrs 16 mins  ████████████████████▒░░░░   81.31 %
 Other        1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
