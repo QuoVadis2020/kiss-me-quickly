@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2023 - To: 07 October 2023
+From: 01 October 2023 - To: 08 October 2023
 
-Vue.js     27 mins         ████████████████████████▓   99.03 %
-GDScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Vue.js       2 hrs 9 mins    ██████████████████████▓░░   90.56 %
+TypeScript   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+GDScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
