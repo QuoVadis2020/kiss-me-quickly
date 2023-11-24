@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2023 - To: 22 November 2023
+From: 16 November 2023 - To: 23 November 2023
 
-Python   2 hrs 15 mins   █████████████████████████   100.00 %
+Python       7 hrs 1 min     ███████████████████████▒░   93.73 %
+JavaScript   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
